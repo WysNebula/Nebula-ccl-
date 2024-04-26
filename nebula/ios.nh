@@ -1,0 +1,12 @@
+; This file is free and open source
+; Nebula 
+; Nebula Programing Package 
+; Nebula Common Compilers
+; Nebula Compiler Template (nct) standard header file
+
+func main: int arg: list[str] ! 
+
+! func main
+
+main(&list);
+
